@@ -2,8 +2,9 @@
 
 These pages are a draft based on the reported Jarvis setup, not a code audit. Do not use the draft URLs as a finalized Google privacy policy yet.
 
+Public support contact: jasur446@gmail.com (publication authorized by the owner on 12 October 2026).
+
 Confirm before merging or enabling Pages:
-- The support email the owner authorizes for public publication.
 - Retention and deletion procedures for sessions, Google source snapshots, drafts, logs, backups and Telegram messages.
 - Which Google Drive contents can be read by the installed tools.
 - Actual Anthropic account/API retention and training settings, and any other model providers receiving Google data.
