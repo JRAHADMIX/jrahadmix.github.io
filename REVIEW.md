@@ -1,18 +1,9 @@
-# Review before publication
+# Publication review
 
-These pages are a draft based on the reported Jarvis setup, not a code audit. Do not use the draft URLs as a finalized Google privacy policy yet.
+Status: draft. Main is unchanged; GitHub Pages has not been enabled by this update.
 
-Public support contact: jasur446@gmail.com (publication authorized by the owner on 12 October 2026).
+The owner approved the public contact jasur446@gmail.com and the general privacy summary: completed sessions retained for 90 days, latest 50 scheduled reports, snapshots and drafts until manual deletion, Anthropic processing, Telegram delivery, and general revocation/deletion information.
 
-Confirm before merging or enabling Pages:
-- Retention and deletion procedures for sessions, Google source snapshots, drafts, logs, backups and Telegram messages.
-- Which Google Drive contents can be read by the installed tools.
-- Actual Anthropic account/API retention and training settings, and any other model providers receiving Google data.
-- Whether any intermediary receives Google data; include it if present.
-- The owner accepts the proposed Limited Use commitments and the running system complies with them.
+Detailed internal storage information is intentionally omitted. The owner's Anthropic organization settings remain unverified; the draft distinguishes the provider's published defaults from account-specific guarantees.
 
-Then update privacy.html and terms.html to match verified practice, remove draft banners and noindex if appropriate, and adopt an effective date.
-
-The site is plain HTML/CSS, has no scripts, forms, analytics, Google login, credentials or private account content. Pages has not been enabled by this change. No local office files are modified.
-
-After deployment: verify the published HTTPS pages, verify control in Search Console, and check whether Google Cloud accepts jrahadmix.github.io as an authorized domain. Acceptance and activation of Production have not been confirmed.
+Before publication: the owner reviews and adopts the three pages. Remove draft notices and set the effective date after adoption. Verify the published HTTPS pages and domain control, then check Google Cloud acceptance. Neither domain acceptance nor Production activation has been confirmed.
